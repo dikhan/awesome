@@ -655,6 +655,7 @@
 - [Cytodata](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
 - [IRC](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
 - [Advertising](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
+- [OpenAPI Terraform provider](https://github.com/dikhan/terraform-provider-openapi#readme) - Terraform provider fully driven by an OpenAPI document.
 
 
 ## Related
